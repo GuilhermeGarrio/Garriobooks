@@ -1,5 +1,5 @@
 # Garriobooks
-Trabalhando com animações e responsividade com HTML, JS e CSS (Mobile First)
+Trabalhando com animações e responsividade utilizando das tecnologias HTML, JS e CSS (Mobile First)
 
 DeskTop Model 
 ![image](https://github.com/GuilhermeGarrio/Garriobooks/assets/91495932/b00a0256-9210-40e9-a8aa-aa211245790e)
